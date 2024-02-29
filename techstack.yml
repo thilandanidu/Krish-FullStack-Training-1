@@ -2,7 +2,7 @@ repo_name: thilandanidu/Krish-FullStack-Training-1
 report_id: 53fe44d2693cb033e29c24b2e9b6c2e7
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-26T04:55:02+00:00'
+timestamp: '2024-02-29T19:38:10+00:00'
 requested_by: Dilhan9
 provider: github
 branch: main
@@ -608,12 +608,6 @@ tools:
   last_updated_by: Dilhan9
   last_updated_on: 2022-08-21 14:04:33.000000000 Z
   vulnerabilities:
-  - name: Deeply nested json in jackson-databind
-    cve_id: CVE-2020-36518
-    cve_url: https://github.com/advisories/GHSA-57j2-w4cx-62h2
-    detected_date: Mar 23
-    severity: high
-    first_patched: 2.13.2.1
   - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
     cve_id: CVE-2022-42004
     cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
@@ -633,6 +627,12 @@ tools:
     detected_date: Oct 5
     severity: high
     first_patched: 2.13.4.2
+  - name: Deeply nested json in jackson-databind
+    cve_id: CVE-2020-36518
+    cve_url: https://github.com/advisories/GHSA-57j2-w4cx-62h2
+    detected_date: Mar 23
+    severity: high
+    first_patched: 2.13.2.1
 - name: com.fasterxml.jackson.datatype:jackson-datatype-jdk8
   description: Add-on module for Jackson
   license: Apache-2.0
