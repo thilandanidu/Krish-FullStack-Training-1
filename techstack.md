@@ -3,25 +3,25 @@
 ## Tech Stack
 thilandanidu/Krish-FullStack-Training-1 is built on the following main stack:
 
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - [Java](https://www.java.com) – Languages
-- [MySQL](http://www.mysql.com) – Databases
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [Kafka](http://kafka.apache.org/) – Message Queue
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Angular](https://angular.io) – Javascript MVC Frameworks
 - [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Project Reactor](https://projectreactor.io/) – Java Tools
 - [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - [H2 Database](http://www.h2database.com/) – Databases
-- [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- [Angular](https://angular.io) – Javascript MVC Frameworks
+- [Kafka](http://kafka.apache.org/) – Message Queue
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- [MySQL](http://www.mysql.com) – Databases
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
 - [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- [Project Reactor](https://projectreactor.io/) – Java Tools
+- [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -31,25 +31,25 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 thilandanidu/Krish-FullStack-Training-1 is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'/> [Kafka](http://kafka.apache.org/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1101/C9QJ7V3X.png' alt='Bootstrap'/> [Bootstrap](http://getbootstrap.com/) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png' alt='Project Reactor'/> [Project Reactor](https://projectreactor.io/) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/2006/spring-framework-project-logo.png' alt='Spring Framework'/> [Spring Framework](https://spring.io/projects/spring-framework) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/3105/h2-logo_square_400x400.png' alt='H2 Database'/> [H2 Database](http://www.h2database.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg' alt='Angular'/> [Angular](https://angular.io) – Javascript MVC Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg' alt='Kafka'/> [Kafka](http://kafka.apache.org/) – Message Queue
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg' alt='Mongoose'/> [Mongoose](http://mongoosejs.com/) – Object Document Mapper (ODM)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
 - <img width='25' height='25' src='https://img.stackshare.io/service/5577/preview.png' alt='nodemon'/> [nodemon](http://nodemon.io/) – node.js Application Monitoring
-- <img width='25' height='25' src='https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png' alt='Project Reactor'/> [Project Reactor](https://projectreactor.io/) – Java Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -60,7 +60,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [thilandanidu/Krish-FullStack-Training-1](https://github.com/thilandanidu/Krish-FullStack-Training-1)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|60<br/>Tools used|01/26/24 <br/>Report generated|
+|60<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -290,7 +290,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|v2.13.0|08/21/22|Dilhan9 |Apache-2.0|[CVE-2020-36518](https://github.com/advisories/GHSA-57j2-w4cx-62h2) (High)<br/>[CVE-2022-42004](https://github.com/advisories/GHSA-rgv9-q543-rqg4) (High)<br/>[CVE-2021-46877](https://github.com/advisories/GHSA-3x8x-79m2-3w2w) (High)<br/>[CVE-2022-42003](https://github.com/advisories/GHSA-jjjh-jjxp-wpff) (High)|
+|[com.fasterxml.jackson.core:jackson-databind](http://github.com/FasterXML/jackson)|v2.13.0|08/21/22|Dilhan9 |Apache-2.0|[CVE-2022-42004](https://github.com/advisories/GHSA-rgv9-q543-rqg4) (High)<br/>[CVE-2021-46877](https://github.com/advisories/GHSA-3x8x-79m2-3w2w) (High)<br/>[CVE-2022-42003](https://github.com/advisories/GHSA-jjjh-jjxp-wpff) (High)<br/>[CVE-2020-36518](https://github.com/advisories/GHSA-57j2-w4cx-62h2) (High)|
 |[com.fasterxml.jackson.datatype:jackson-datatype-jdk8]()|N/A|08/21/22|Dilhan9 |Apache-2.0|N/A|
 |[com.fasterxml.jackson.module:jackson-module-parameter-names]()|N/A|08/21/22|Dilhan9 |Apache-2.0|N/A|
 |[com.h2database:h2](http://www.h2database.com)|N/A|08/21/22|Dilhan9 |MIT-feh|N/A|
